@@ -1229,3 +1229,7 @@ declare module spine {
 		end(): void;
 	}
 }
+
+declare module 'spine-runtimes' {
+  export = spine;
+}

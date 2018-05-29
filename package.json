@@ -3,6 +3,7 @@
   "version": "3.5.35",
   "description": "2D skeletal animation runtimes for Spine.",
   "main": "spine-ts/build/spine-core.js",
+  "types": "spine-ts/build/spine-core.d.ts",
   "directories": {
     "example": "examples"
   },
